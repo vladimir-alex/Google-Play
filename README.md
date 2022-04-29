@@ -7,3 +7,7 @@
 ## Introduction
 
 > From the google play store dataset, I decide to make a notebook for Exploratory Data Analysis and do some wrangling data to put it on my prediction model in future.
+
+## Important
+
+> There are many charts on github that do not display, you can get the full chart display by copying the URL of the notebook to https://nbviewer.org/.
