@@ -11,3 +11,5 @@
 ## Important
 
 > There are many charts on github that do not display, you can get the full chart display by copying the URL of the notebook to https://nbviewer.org/.
+> Here is a link ready for direct viewing.
+> https://nbviewer.org/github/vladimir-alex/Google-Play/blob/main/Google%20Play%20App%20MC%20to%20Visualization%20%26%20Prediction.ipynb
